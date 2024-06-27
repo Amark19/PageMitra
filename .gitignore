@@ -1,0 +1,10 @@
+.idea
+.vercel
+.vscode
+.yarn
+build
+dist
+firebase
+logs
+node_modules
+package-lock.json
